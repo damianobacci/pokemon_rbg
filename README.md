@@ -2,7 +2,7 @@
 Pokemon Random Battle Generator
 
 ## TODO LIST
-- [ x ] Create a test map with collisions
+- [x] Create a test map with collisions
 - [ ] Basic functionalities (loading, exploring)
 - [ ] Battle zones and how to trigger those
 - [ ] Implement the PokeAPI to get the relevant data

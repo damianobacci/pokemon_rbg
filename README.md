@@ -1,5 +1,6 @@
-# pokemon_rbg
-Pokemon Random Battle Generator
+# Pokemon Random Battle Generator
+
+A Typescript project.
 
 ## TODO LIST
 - [x] Create a test map with collisions

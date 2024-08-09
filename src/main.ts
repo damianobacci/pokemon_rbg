@@ -1,4 +1,4 @@
-import './style.css'
+import testMap from '../assets/maps/test.png'
 
 console.log("This is the entry file for the project")
 
@@ -12,8 +12,7 @@ canvas.height = 576
 console.log(canvas)
 
 const image : HTMLImageElement = new Image()
-image.src = "./images/maps/test.png"
-console.log(image)
+image.src = testMap
 
 image.onload = () => {
   const scaleFactor = 4
